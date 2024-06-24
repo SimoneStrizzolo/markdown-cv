@@ -10,7 +10,7 @@ Business Analyst at beanTech, Mathematician.
 | <a href="https://www.linkedin.com/in/simone-strizzolo-b2a122111">LinkedIn Page</a>
 </div>
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![image](https://github.com/SimoneStrizzolo/markdown-cv/assets/173720079/f91f49bd-f4b5-4b6d-b7be-716af2c2f92f)
 
 ## Currently
 
