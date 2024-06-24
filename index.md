@@ -12,13 +12,16 @@ Business Analyst at beanTech, Mathematician.
 
 ## Currently
 
-Sono Business Analyst in [beanTech](https://www.beantech.it/) (UD). Ho iniziato con il ruolo di Data Analyst, sviluppando principalemnte report di analisi dati tramite Microsoft Power BI. Nel tempo ho spaziato in tutte le aree del mondo della Business Intelligence, fino alla costruizione di una Data Platform completa. Attualmente sono team leader di due progetti per due multinazionali, uno inerente la realizzazione di una Data Platform e uno per la realizzazione di un algoritmo di Intelligenza Artificiale.
+Lavoro in [beanTech](https://www.beantech.it/) nel reparto dedicato all'**analisi dei dati** (Business Intelligence) e utilizzo principalmente tecnologie Microsoft. Ho iniziato con il ruolo di Data Analyst sviluppando principalemnte reportistiche grafiche per i business user. Mi sono sempre sforzato a dare il mio apporto in qualsiasi ambito e infatti nel tempo sono diventato una figura molto dinamica. Mi occupo infatti contemporaneamente di: fare docenze ai clienti e fare il formatore interno; aiuto i clienti a sviluppare la cultura del dato; faccio da ponte tra i team di sviluppo e i clienti, traducendo i linguaggi e requisiti di questi due mondi; in quanto mi occupo contemporaneamnte di: fornire consulenza al business ; docente e formatore interno all'azienda. Attualmente sono team leader mi sono specializzato in tre rami: costruzione di modelli semantici per l'analisi dei dati avanzata; consulente delle figure di business delle varie aziende; docente. Attualmnte sono team leader di circa 10 persone coinvolte in due progetti per due multinazionali: realizzazione di una Data Platform e uno per la realizzazione di un algoritmo di Intelligenza Artificiale.
 
-### Specialized in
+### Tech Skills
+Microsoft Power BI, Microsoft Fabric, SQL, Azure, Azure DevOps, il tutto orientato al mondo della Business Intelligence.
 
-`Competenza massima`: Microsoft Power BI
+### Soft Skill
+Ho due 
 
-`Esperto`: linguaggio SQL, Azure (orientato alla Data Platform), Microsoft Fabric, Azure DevOps
+### Areas of Development
+ linguaggio SQL, Azure (orientato alla Data Platform), Microsoft Fabric, Azure DevOps
 
 
 ### Research interests
