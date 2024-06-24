@@ -17,6 +17,7 @@ Sono Business Analyst in [beanTech](https://www.beantech.it/) (UD). Ho iniziato 
 ### Specialized in
 
 `Competenza massima`: Microsoft Power BI
+
 `Esperto`: linguaggio SQL, Azure (orientato alla Data Platform), Microsoft Fabric, Azure DevOps
 
 
