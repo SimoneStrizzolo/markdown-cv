@@ -10,15 +10,25 @@ Business Analyst at beanTech, Mathematician.
 | <a href="https://www.linkedin.com/in/simone-strizzolo-b2a122111">LinkedIn Page</a>
 </div>
 
-## Currently
-
-Lavoro in [beanTech](https://www.beantech.it/) nel reparto dedicato all'**analisi dei dati** (Business Intelligence) e utilizzo principalmente tecnologie Microsoft. Ho iniziato con il ruolo di Data Analyst sviluppando principalemnte reportistiche grafiche per i business user. Mi sono sempre sforzato a dare il mio apporto in qualsiasi ambito e infatti nel tempo sono diventato una figura molto dinamica. Mi occupo infatti contemporaneamente di: fare docenze ai clienti e fare il formatore interno; aiuto i clienti a sviluppare la cultura del dato; faccio da ponte tra i team di sviluppo e i clienti, traducendo i linguaggi e requisiti di questi due mondi; in quanto mi occupo contemporaneamnte di: fornire consulenza al business ; docente e formatore interno all'azienda. Attualmente sono team leader mi sono specializzato in tre rami: costruzione di modelli semantici per l'analisi dei dati avanzata; consulente delle figure di business delle varie aziende; docente. Attualmnte sono team leader di circa 10 persone coinvolte in due progetti per due multinazionali: realizzazione di una Data Platform e uno per la realizzazione di un algoritmo di Intelligenza Artificiale.
+## Attualmente (dal 2019)
+Lavoro in [beanTech](https://www.beantech.it/) nel reparto dell'**analisi dei dati** (Business Intelligence) e utilizzo tecnologie Microsoft. Ho iniziato con il ruolo di Data Analyst sviluppando reportistiche per i business user. Con il tempo sono riuscito a diventare una figura estremamente dinamica e oggi: aiuto i clienti a sviluppare una cultura nel dato, proponendo KPI library e supportandoli in fase di assessment; sono una figura ponte tra il linguaggio del business e il linguaggio tecnico dei team di sviluppo; sono docente dei corsi organizzati dall'azienda e formatore interno. Dal 2023 guido due team di lprogetto per due  multinazionali per realizzare rispettivamente una piattaforma di analisi dati cloud-native e un algoritmo di intelligenza artificiale in ambito HR.
 
 ### Tech Skills
-Microsoft Power BI, Microsoft Fabric, SQL, Azure, Azure DevOps, il tutto orientato al mondo della Business Intelligence.
+Orientate all'analisi dei dati. Microsoft Power BI, Microsoft Fabric, SQL, Azure, Azure DevOps.
 
 ### Soft Skill
-Ho due 
+Amo insegnare e condividere le conoscenze che acquisto: sarò sempre pro-attivo in qualunque proposta di formazione. Sono bravo a conquistare e mantenere, anche nei momenti più difficili, quella forma di fiducia cliente-fornitore richiesta nell'ambito consulenziale. Sono molto bravo ad ascoltare: aiuterò sempre un collega in difficoltà, anche a scapito delle mie attività.
+
+### Areas of development
+Sono timido pertanto ci possono essere momenti in cui fatico a prendere decisioni forti.
+
+### Precedentemente (2015-2019)
+Ho insegnato matematica, fisica e informatica a universitari e studenti di scuola superiore presso la scuola privata Excol.
+
+### Precedentemente (2014-2019)
+Sono stato consigliere comunale di maggioranza presso il comune di Bicinicco, con delega alle politiche giovanili e all'innovazione.
+
+
 
 ### Areas of Development
  linguaggio SQL, Azure (orientato alla Data Platform), Microsoft Fabric, Azure DevOps
