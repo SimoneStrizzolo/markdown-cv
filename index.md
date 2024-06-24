@@ -1,15 +1,16 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Curriculum Vitae Simone Strizzolo
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Simone Strizzolo
+Business Analyst at beanTech, Mathematician.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="simone.strizzolo@gmail.com">simone.strizzolo@gmail.com</a>
+| <a href="https://www.linkedin.com/in/simone-strizzolo-b2a122111">LinkedIn Page</a>
 </div>
 
+![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
 
 ## Currently
 
