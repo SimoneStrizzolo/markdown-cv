@@ -10,15 +10,14 @@ Business Analyst at beanTech, Mathematician.
 | <a href="https://www.linkedin.com/in/simone-strizzolo-b2a122111">LinkedIn Page</a>
 </div>
 
-![image](https://github.com/SimoneStrizzolo/markdown-cv/assets/173720079/f91f49bd-f4b5-4b6d-b7be-716af2c2f92f)
-
 ## Currently
 
-Standing on the shoulders of giants
+Sono Business Analyst in [beanTech](https://www.beantech.it/) (UD). Ho iniziato con il ruolo di Data Analyst, sviluppando principalemnte report di analisi dati tramite Microsoft Power BI. Nel tempo ho spaziato in tutte le aree del mondo della Business Intelligence, fino alla costruizione di una Data Platform completa. Attualmente sono team leader di due progetti per due multinazionali, uno inerente la realizzazione di una Data Platform e uno per la realizzazione di un algoritmo di Intelligenza Artificiale.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+`Competenza massima`: Microsoft Power BI
+`Esperto`: linguaggio SQL, Azure (orientato alla Data Platform), Microsoft Fabric, Azure DevOps
 
 
 ### Research interests
